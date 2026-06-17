@@ -1,0 +1,177 @@
+Feature,Importance
+Number_of_vehicles_involved,0.2327690706039942
+Number_of_casualties,0.11721267463911865
+Hour,0.07956752352444756
+Age_band_of_driver_Under 18,0.02819296905202934
+Light_conditions_Darkness - no lighting,0.023796937572184713
+Day_of_week_Saturday,0.0204395821756651
+Age_band_of_driver_Unknown,0.017778870317990445
+Light_conditions_Daylight,0.014483382464909123
+Weather_conditions_Unknown,0.014176560245823486
+Types_of_Junction_Crossing,0.01328982817449807
+Area_accident_occured_Residential areas,0.010252479891377085
+Types_of_Junction_Other,0.00998695025893081
+Type_of_vehicle_Lorry (11?40Q),0.00942977163074643
+Types_of_Junction_T Shape,0.00885869626121424
+Educational_level_Unknown,0.008697873028981893
+Types_of_Junction_Y Shape,0.008681190742223904
+Type_of_vehicle_Special vehicle,0.008636046713232572
+Type_of_vehicle_Public (> 45 seats),0.007709849761231561
+Day_of_week_Sunday,0.007002114457370902
+Vehicle_driver_relation_Owner,0.00683076534526997
+Owner_of_vehicle_Organization,0.006686091237406742
+Types_of_Junction_Unknown,0.006621366817278484
+Vehicle_movement_Unknown,0.006463419622324082
+Type_of_vehicle_Lorry (41?100Q),0.006437607318697036
+Type_of_collision_Collision with pedestrians,0.006433238070482777
+Pedestrian_movement_Unknown or other,0.006327169063778694
+Road_allignment_Steep grade upward with mountainous terrain,0.0062667239304754095
+Weather_conditions_Normal,0.006073143465090418
+Day_of_week_Friday,0.0060486096648585015
+Vehicle_movement_Getting off,0.005740824119079693
+Cause_of_accident_Driving to the left,0.005505860143602814
+Road_surface_type_Earth roads,0.0053152471572834635
+Driving_experience_5-10yr,0.005084682343313174
+Owner_of_vehicle_Owner,0.005002647791538544
+Driving_experience_1-2yr,0.00495224105062473
+Cause_of_accident_Driving at high speed,0.0048281912838897345
+Area_accident_occured_School areas,0.004804518031885456
+Vehicle_driver_relation_Employee,0.004792692987803411
+Type_of_vehicle_Public (13?45 seats),0.004755857327118704
+Area_accident_occured_Unknown,0.004700780252621925
+Type_of_vehicle_Other,0.0046707208856820075
+Area_accident_occured_ Outside rural areas,0.004585651535574436
+Day_of_week_Thursday,0.0045745775347683934
+Day_of_week_Monday,0.004506242064332931
+Types_of_Junction_No junction,0.0044307951272508595
+Educational_level_Illiterate,0.004336458459760424
+Weather_conditions_Snow,0.004251427159323589
+Cause_of_accident_No priority to vehicle,0.004062965073528466
+Road_allignment_Tangent road with flat terrain,0.003830205611634474
+Cause_of_accident_Driving carelessly,0.003826650181437237
+Defect_of_vehicle_7,0.0038247227299146327
+Light_conditions_Darkness - lights unlit,0.003783985668011129
+Pedestrian_movement_Crossing from driver's nearside,0.0036544583273309815
+Cause_of_accident_Overspeed,0.0035539027743804372
+Type_of_collision_Vehicle with vehicle collision,0.003513358798885708
+Cause_of_accident_Overtaking,0.0033986134977034396
+Driving_experience_No Licence,0.0033932114876010374
+Service_year_of_vehicle_2-5yrs,0.0033511252113600566
+Road_allignment_Tangent road with rolling terrain,0.0033081488441076903
+Cause_of_accident_Changing lane to the left,0.003203247612095543
+Type_of_collision_With Train,0.003201616696794726
+Type_of_collision_Collision with roadside objects,0.003167041265500024
+Lanes_or_Medians_Two-way (divided with broken lines road marking),0.0029348183725173014
+Road_allignment_Escarpments,0.00290251778839172
+Type_of_vehicle_Pick up upto 10Q,0.002886453518688255
+Road_allignment_Gentle horizontal curve,0.0028581054015798255
+Vehicle_movement_Parked,0.0028526355206168774
+Type_of_vehicle_Taxi,0.002846250200108223
+Vehicle_movement_Moving Backward,0.002751691806225892
+Day_of_week_Tuesday,0.0027456616573128083
+Type_of_vehicle_Stationwagen,0.0027378478196407384
+Driving_experience_2-5yr,0.0026779212692888267
+Age_band_of_driver_Over 51,0.002635072667549369
+Road_surface_type_Gravel roads,0.0026031355871773357
+Road_allignment_Sharp reverse curve,0.002583267068902209
+Cause_of_accident_Overloading,0.0025688543544548676
+Road_allignment_Steep grade downward with mountainous terrain,0.002566953767454268
+Vehicle_movement_Turnover,0.0025455535527580896
+Type_of_vehicle_Long lorry,0.0025314602277706384
+Day_of_week_Wednesday,0.002492224038815664
+Road_surface_type_Asphalt roads with some distress,0.002451863764831076
+Vehicle_movement_Entering a junction,0.0023905871170334147
+Vehicle_movement_Overtaking,0.002375229530754436
+Lanes_or_Medians_other,0.002329314286349423
+Type_of_vehicle_Motorcycle,0.0022944488778370454
+Type_of_vehicle_Turbo,0.002248293621520478
+Vehicle_driver_relation_Other,0.0022417290511203337
+Cause_of_accident_Driving under the influence of drugs,0.002196721536209012
+Cause_of_accident_No distancing,0.00219300258447172
+Weather_conditions_Other,0.0021856939875206484
+Defect_of_vehicle_No defect,0.002172136500118854
+Area_accident_occured_ Hospital areas,0.0021457757902678255
+Educational_level_Above high school,0.0021329350283934936
+Type_of_vehicle_Bajaj,0.0021068364947996816
+Vehicle_movement_Other,0.002085001759124892
+Driving_experience_Below 1yr,0.0020796688717258983
+Types_of_Junction_O Shape,0.0020723787424615134
+Road_surface_conditions_Wet or damp,0.0020579544257933765
+Lanes_or_Medians_Undivided Two way,0.0020280381479160347
+Light_conditions_Darkness - lights lit,0.0019076190465556735
+Cause_of_accident_Other,0.001859021639651545
+Weather_conditions_Cloudy,0.00174430430612152
+Vehicle_movement_Reversing,0.001726566219340677
+Pedestrian_movement_Crossing from nearside - masked by parked or statioNot a Pedestrianry vehicle,0.001712352924447215
+Service_year_of_vehicle_Unknown,0.0017106359626860895
+Service_year_of_vehicle_Below 1yr,0.0017055239215322433
+Lanes_or_Medians_Double carriageway (median),0.001675518129922283
+Driving_experience_unknown,0.001620105886455348
+Lanes_or_Medians_Two-way (divided with solid lines road marking),0.001575299059949002
+Educational_level_Elementary school,0.0015570209707748885
+Service_year_of_vehicle_5-10yrs,0.001488371296203139
+Cause_of_accident_No priority to pedestrian,0.0014799030238383806
+Vehicle_movement_Going straight,0.0014498397322414431
+Area_accident_occured_  Recreational areas,0.0014399573031086744
+Cause_of_accident_Overturning,0.0014227919813585741
+"Pedestrian_movement_In carriageway, statioNot a Pedestrianry - not crossing  (standing or playing)",0.0014146947417000713
+Cause_of_accident_Moving Backward,0.0014093254257166257
+Defect_of_vehicle_5,0.0013579614288894378
+Area_accident_occured_  Market areas,0.0013388649731373283
+Pedestrian_movement_Not a Pedestrian,0.0013345410373182993
+Type_of_vehicle_Ridden horse,0.001246968998095602
+Lanes_or_Medians_Unknown,0.0011976074304823764
+Road_allignment_Tangent road with mountainous terrain and,0.001194237912472037
+Road_allignment_Tangent road with mild grade and flat terrain,0.0011791132510067996
+Educational_level_Writing & reading,0.0011211108186900134
+Type_of_vehicle_Automobile,0.0010972537083178621
+Road_surface_conditions_Dry,0.001084205600076888
+Type_of_collision_Collision with animals,0.0010040104848647148
+Cause_of_accident_Turnover,0.0010000722382659992
+Vehicle_movement_U-Turn,0.0009910335928563839
+Cause_of_accident_Drunk driving,0.0009873898601457814
+Owner_of_vehicle_Governmental,0.000978699772700947
+Lanes_or_Medians_One way,0.0009735490238994091
+Owner_of_vehicle_Other,0.0009585296451312629
+Road_surface_type_Other,0.0009327873112875521
+Educational_level_Junior high school,0.0009247726170462965
+Weather_conditions_Fog or mist,0.0009236492405337019
+Service_year_of_vehicle_1-2yr,0.0008622926625774978
+Area_accident_occured_ Church areas,0.0008449604443628597
+Cause_of_accident_Getting off the vehicle improperly,0.0007558550687834449
+Area_accident_occured_Rural village areas,0.0007418254394078556
+Pedestrian_movement_Crossing from offside - masked by  parked or statioNot a Pedestrianry vehicle,0.0007354374491243202
+Sex_of_driver_Female,0.0006904954575479345
+Driving_experience_Above 10yr,0.0006726286488712078
+Area_accident_occured_Office areas,0.0006315567121520839
+Age_band_of_driver_18-30,0.0006296359594940845
+Type_of_vehicle_Public (12 seats),0.000608776148399449
+Area_accident_occured_Other,0.000607517898312431
+Service_year_of_vehicle_Above 10yr,0.0005882489907880183
+Sex_of_driver_Male,0.0005865190395204555
+Weather_conditions_Raining and Windy,0.0005445531879094146
+Road_surface_conditions_Snow,0.0004964585461973007
+Type_of_collision_Collision with roadside-parked vehicles,0.0004407979175139927
+Educational_level_High school,0.00043296343611423866
+Type_of_vehicle_Bicycle,0.00042850474391545497
+Type_of_collision_Other,0.0004283951480128494
+Age_band_of_driver_31-50,0.00038761706090763764
+Vehicle_driver_relation_Unknown,0.00023339348548193298
+"Pedestrian_movement_Walking along in carriageway, back to traffic",0.0002137188956389056
+Cause_of_accident_Changing lane to the right,0.00019210258586619715
+Type_of_collision_Unknown,0.00016939697342031664
+Vehicle_movement_Stopping,0.00016451076215042313
+Vehicle_movement_Waiting to go,0.0001408484300548171
+Types_of_Junction_X Shape,0.00012741765258380763
+Sex_of_driver_Unknown,9.503400210415772e-05
+Weather_conditions_Windy,8.783546124185247e-05
+Cause_of_accident_Unknown,8.555060122661551e-05
+"Pedestrian_movement_In carriageway, statioNot a Pedestrianry - not crossing  (standing or playing) - masked by parked or statioNot a Pedestrianry vehicle",7.553281578267487e-05
+Road_surface_type_Asphalt roads,3.0784627892537074e-06
+Area_accident_occured_ Industrial areas,1.1957005026523037e-07
+Cause_of_accident_Improper parking,0.0
+"Pedestrian_movement_Walking along in carriageway, facing traffic",0.0
+Area_accident_occured_Rural village areasOffice areas,0.0
+Type_of_collision_Rollover,0.0
+Type_of_collision_Fall from vehicles,0.0
+Weather_conditions_Raining,0.0

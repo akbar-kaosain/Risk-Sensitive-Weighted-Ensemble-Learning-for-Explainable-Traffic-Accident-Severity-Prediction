@@ -1,0 +1,6 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,High-Severity Recall,Risk-Sensitive Score,Ensemble Weight
+Logistic Regression,0.8457,0.4488,0.3355,0.3105,0.777,0.007,0.1284,0.1842
+Random Forest,0.8479,0.6158,0.3384,0.3159,0.7802,0.014,0.1348,0.1933
+Extra Trees,0.8462,0.5044,0.3357,0.3106,0.7773,0.007,0.1284,0.1842
+Gradient Boosting,0.8495,0.8328,0.3602,0.3591,0.7888,0.0456,0.171,0.2453
+CatBoost,0.8462,0.4729,0.3378,0.3155,0.7793,0.014,0.1346,0.1931
